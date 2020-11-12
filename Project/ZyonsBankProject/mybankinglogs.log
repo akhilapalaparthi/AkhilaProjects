@@ -1,0 +1,906 @@
+[DEBUG]        com.bankapp.main.BankMain       Application exits if don't use your choices between 1 to 3
+java.lang.NumberFormatException: For input string: "hjds"             09-November-2020 Monday CST 16:42:31                
+[DEBUG]        com.bankapp.main.BankMain       Application exits if don't use your choices between 1 to 3
+java.lang.NumberFormatException: For input string: ""             10-November-2020 Tuesday CST 08:27:30                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 08:28:22                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 08:28:22                
+[DEBUG]        com.bankapp.dao.impl.BankDAOImpl                    10-November-2020 Tuesday CST 08:28:22                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 08:39:47                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 08:39:47                
+[DEBUG]        com.bankapp.dao.impl.BankDAOImpl                    10-November-2020 Tuesday CST 08:39:48                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 08:46:19                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 08:46:19                
+[DEBUG]        com.bankapp.dao.impl.BankDAOImpl                    10-November-2020 Tuesday CST 08:46:19                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 09:31:44                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 09:31:44                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 09:31:44                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 09:31:44                
+[INFO]        com.bankapp.main.BankMain        Your Current Balance is 9600.0             10-November-2020 Tuesday CST 09:31:44                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 09:57:43                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 09:57:43                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 09:57:43                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 09:57:43                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 09:57:43                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 09:57:43                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:03:02                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:03:02                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:03:02                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:03:02                
+[INFO]        com.bankapp.main.BankMain        Your Current Balance is 9600.0             10-November-2020 Tuesday CST 10:03:02                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:04:20                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:04:20                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:04:20                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:04:20                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:06:31                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:06:31                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:06:31                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:06:31                
+[INFO]        com.bankapp.main.BankMain       Your Current Balance after withdrawal is 7500.0             10-November-2020 Tuesday CST 10:06:31                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:07:56                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:07:56                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:07:56                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:07:56                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:10:12                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:10:12                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:10:12                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:10:12                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:11:10                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=1, accountno=456, transactiontype=Made Deposit, remarks=Test, date=2020-11-08 00:00:00, amt=200]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=2, accountno=42204, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=8000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=3, accountno=34934, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=211]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=4, accountno=53524, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=6000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=5, accountno=19811, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=7000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=6, accountno=456, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=5500]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=7, accountno=19811, transactiontype=Made Deposit, remarks=Test, date=2020-11-09 00:00:00, amt=500]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=8, accountno=213, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=8000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=9, accountno=19811, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=6500]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=10, accountno=34934, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-09 00:00:00, amt=2000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=11, accountno=34934, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-09 00:00:00, amt=211]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=12, accountno=456, transactiontype=Amount Transfered to19811, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=5450]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=13, accountno=19811, transactiontype=Amount Transfered to34934, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=50]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=14, accountno=34934, transactiontype=Amount Transfered to19811, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=600]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=15, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=1000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=16, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=500]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=17, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=500]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=18, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=10000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=19, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=10000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=20, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-10 00:00:00, amt=9600]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=21, accountno=11228, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-10 00:00:00, amt=8000]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=22, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-10 00:00:00, amt=9600]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=23, accountno=53524, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-10 00:00:00, amt=100]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=24, accountno=11228, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-10 00:00:00, amt=500]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=25, accountno=19811, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=200]             10-November-2020 Tuesday CST 10:11:10                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=26, accountno=11228, transactiontype=Amount Transfered to53524, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=500]             10-November-2020 Tuesday CST 10:11:10                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 10:11:47                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 10:11:47                
+[DEBUG]        com.bankapp.main.BankMain       Account Details of 213  Account Number are 
+Accounts [customerid=11, accountno=213, balance=9800.0, accountype=savings]             10-November-2020 Tuesday CST 10:11:47                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:04:52                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:04:52                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:04:52                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:04:52                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:04:52                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:04:52                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:15:46                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:15:46                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:15:46                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:15:46                
+[INFO]        com.bankapp.main.BankMain       Your Current Balance after withdrawal is 400.0             10-November-2020 Tuesday CST 12:15:46                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:22:03                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:22:03                
+[DEBUG]        com.bankapp.dao.impl.BankDAOImpl       org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.             10-November-2020 Tuesday CST 12:22:03                
+[DEBUG]        com.bankapp.main.BankMain       business exception  com.bankapp.exception.BusinessException: Internal error occured.. Kindly contact SYSADMIN             10-November-2020 Tuesday CST 12:22:03                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:28:21                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:28:21                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:28:21                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:28:21                
+[INFO]        com.bankapp.main.BankMain       Your Current Balance after withdrawal is 4000.0             10-November-2020 Tuesday CST 12:28:21                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 12:30:09                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 12:30:09                
+[INFO]        com.bankapp.main.BankMain       Your Current Balance after withdrawal is -3800.0             10-November-2020 Tuesday CST 12:30:09                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:04:57                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:04:58                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:04:58                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:04:58                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:18:21                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:18:21                
+[INFO]        com.bankapp.main.BankMain       Your Current Balance after withdrawal is null             10-November-2020 Tuesday CST 13:18:21                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:23:40                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:23:40                
+[INFO]        com.bankapp.main.BankMain       Trasferring Amount from Savings/Checking to Checking/Savings             10-November-2020 Tuesday CST 13:38:47                
+[INFO]        com.bankapp.main.BankMain       Enter Your Savings Account No              10-November-2020 Tuesday CST 13:38:47                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 13:39:04                
+[INFO]        com.bankapp.main.BankMain       Enter Your Checking Account No to transfer the amount  $1000.0             10-November-2020 Tuesday CST 13:39:12                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:39:26                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:39:27                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:39:27                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:39:27                
+[INFO]        com.bankapp.main.BankMain       The current Balance of Account No 213 is 9000.0             10-November-2020 Tuesday CST 13:39:27                
+[INFO]        com.bankapp.main.BankMain       Trasferring Amount from Savings/Checking to Checking/Savings             10-November-2020 Tuesday CST 13:40:55                
+[INFO]        com.bankapp.main.BankMain       Enter Your Savings Account No              10-November-2020 Tuesday CST 13:40:55                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 13:41:37                
+[INFO]        com.bankapp.main.BankMain       Enter Your Checking Account No to transfer the amount  $3600.0             10-November-2020 Tuesday CST 13:41:41                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:41:58                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:41:59                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       Sorry Customer! Cannot make this transaction.As Minimum balance should be 500$             10-November-2020 Tuesday CST 13:41:59                
+[INFO]        com.bankapp.main.BankMain       The current Balance of Account No 53524 is 400.0             10-November-2020 Tuesday CST 13:41:59                
+[INFO]        com.bankapp.main.BankMain       Trasferring Amount from Savings/Checking to Checking/Savings             10-November-2020 Tuesday CST 13:49:08                
+[INFO]        com.bankapp.main.BankMain       Enter Your Savings Account No              10-November-2020 Tuesday CST 13:49:08                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 13:49:18                
+[INFO]        com.bankapp.main.BankMain       Enter Your Checking Account No to transfer the amount  $3600.0             10-November-2020 Tuesday CST 13:49:23                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:49:35                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:49:35                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       Sorry Customer! Cannot make this transaction.As Minimum balance should be 500$             10-November-2020 Tuesday CST 13:49:36                
+[INFO]        com.bankapp.main.BankMain       Transfering Money to Another Account             10-November-2020 Tuesday CST 13:56:31                
+[INFO]        com.bankapp.main.BankMain        Please Enter your Account No:             10-November-2020 Tuesday CST 13:56:31                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 13:56:42                
+[INFO]        com.bankapp.main.BankMain       Enter Account Number to Transfer the amount $ 3600.0             10-November-2020 Tuesday CST 13:56:47                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:56:50                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:56:50                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       Sorry Customer! Cannot make this transaction.As Minimum balance should be 500$             10-November-2020 Tuesday CST 13:56:50                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 13:56:50                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 13:56:50                
+[INFO]        com.bankapp.main.BankMain       The current Balance of Account No 53524 is 400.0             10-November-2020 Tuesday CST 13:56:50                
+[INFO]        com.bankapp.main.BankMain       Transfering Money to Another Account             10-November-2020 Tuesday CST 14:00:34                
+[INFO]        com.bankapp.main.BankMain        Please Enter your Account No:             10-November-2020 Tuesday CST 14:00:34                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 14:00:45                
+[INFO]        com.bankapp.main.BankMain       Enter Account Number to Transfer the amount $ 3600.0             10-November-2020 Tuesday CST 14:00:48                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:00:57                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:00:57                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       Sorry Customer! Cannot make this transaction.As Minimum balance should be 500$             10-November-2020 Tuesday CST 14:00:57                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:00:57                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:00:58                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       The current Balance of Account No 53524 is 400.0             10-November-2020 Tuesday CST 14:00:58                
+[INFO]        com.bankapp.main.BankMain       Trasferring Amount from Savings/Checking to Checking/Savings             10-November-2020 Tuesday CST 14:05:49                
+[INFO]        com.bankapp.main.BankMain       Enter Your Savings Account No              10-November-2020 Tuesday CST 14:05:49                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 14:05:57                
+[INFO]        com.bankapp.main.BankMain       Enter Your Checking Account No to transfer the amount  $3600.0             10-November-2020 Tuesday CST 14:06:01                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:06:06                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:06:06                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       Sorry Customer! Cannot make this transaction.As Minimum balance should be 500$             10-November-2020 Tuesday CST 14:06:06                
+[INFO]        com.bankapp.main.BankMain       Trasferring Amount from Savings/Checking to Checking/Savings             10-November-2020 Tuesday CST 14:17:05                
+[INFO]        com.bankapp.main.BankMain       Enter Your Savings Account No              10-November-2020 Tuesday CST 14:17:05                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 14:18:18                
+[INFO]        com.bankapp.main.BankMain       Enter Your Checking Account No to transfer the amount  $3600.0             10-November-2020 Tuesday CST 14:18:23                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:18:27                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:18:27                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       Sorry Customer! Cannot make this transaction.As Minimum balance should be 500$             10-November-2020 Tuesday CST 14:18:27                
+[INFO]        com.bankapp.main.BankMain       Trasferring Amount from Savings/Checking to Checking/Savings             10-November-2020 Tuesday CST 14:19:47                
+[INFO]        com.bankapp.main.BankMain       Enter Your Savings Account No              10-November-2020 Tuesday CST 14:19:47                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 14:19:54                
+[INFO]        com.bankapp.main.BankMain       Enter Your Checking Account No to transfer the amount  $200.0             10-November-2020 Tuesday CST 14:20:12                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:20:17                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:20:17                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:20:17                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:20:17                
+[INFO]        com.bankapp.main.BankMain       Trasferring Amount from Savings/Checking to Checking/Savings             10-November-2020 Tuesday CST 14:23:06                
+[INFO]        com.bankapp.main.BankMain       Enter Your Savings Account No              10-November-2020 Tuesday CST 14:23:06                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 14:23:22                
+[INFO]        com.bankapp.main.BankMain       Trasferring Amount from Savings/Checking to Checking/Savings             10-November-2020 Tuesday CST 14:24:23                
+[INFO]        com.bankapp.main.BankMain       Enter Your Savings Account No              10-November-2020 Tuesday CST 14:24:23                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 14:24:31                
+[INFO]        com.bankapp.main.BankMain       Enter Your Checking Account No to transfer the amount  $500.0             10-November-2020 Tuesday CST 14:24:34                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:24:36                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:24:37                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       The current Balance of Account No 53524 is 3300.0             10-November-2020 Tuesday CST 14:24:37                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:24:37                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:24:37                
+[INFO]        com.bankapp.main.BankMain       Transfering Money to Another Account             10-November-2020 Tuesday CST 14:29:29                
+[INFO]        com.bankapp.main.BankMain        Please Enter your Account No:             10-November-2020 Tuesday CST 14:29:29                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 14:30:20                
+[INFO]        com.bankapp.main.BankMain       Enter Account Number to Transfer the amount $ 300.0             10-November-2020 Tuesday CST 14:30:29                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:30:35                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:30:35                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:30:35                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:30:35                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       The current Balance of Account No 53524 is 3000.0             10-November-2020 Tuesday CST 14:30:35                
+[INFO]        com.bankapp.main.BankMain       Transfering Money to Another Account             10-November-2020 Tuesday CST 14:31:38                
+[INFO]        com.bankapp.main.BankMain        Please Enter your Account No:             10-November-2020 Tuesday CST 14:31:38                
+[INFO]        com.bankapp.main.BankMain       Please Enter the Amount to be Transferred             10-November-2020 Tuesday CST 14:31:50                
+[INFO]        com.bankapp.main.BankMain       Enter Account Number to Transfer the amount $ 2600.0             10-November-2020 Tuesday CST 14:32:14                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:32:22                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:32:22                
+[INFO]        com.bankapp.dao.impl.BankDAOImpl       Sorry Customer! Cannot make this transaction.As Minimum balance should be 500$             10-November-2020 Tuesday CST 14:32:22                
+[INFO]        com.bankapp.main.BankMain       Enter Your Account No to view your balance             10-November-2020 Tuesday CST 14:53:15                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:53:20                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:53:20                
+[INFO]        com.bankapp.main.BankMain       Enter Your Account No to view your balance             10-November-2020 Tuesday CST 14:57:57                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:57:59                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:57:59                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 14:57:59                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 14:57:59                
+[INFO]        com.bankapp.main.BankMain       Viewing  a log of All Transactions             10-November-2020 Tuesday CST 17:11:10                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 17:11:10                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 17:11:10                
+[DEBUG]        com.bankapp.dao.impl.BankDAOImpl       org.postgresql.util.PSQLException: The column name   logid   was not found in this ResultSet.             10-November-2020 Tuesday CST 17:11:10                
+[DEBUG]        com.bankapp.main.BankMain       Internal error occured.. Kindly contact SYSADMIN             10-November-2020 Tuesday CST 17:11:10                
+[INFO]        com.bankapp.main.BankMain       Viewing  a log of All Transactions             10-November-2020 Tuesday CST 17:14:53                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 17:14:53                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 17:14:53                
+[DEBUG]        com.bankapp.dao.impl.BankDAOImpl       org.postgresql.util.PSQLException: The column name   logid   was not found in this ResultSet.             10-November-2020 Tuesday CST 17:14:53                
+[DEBUG]        com.bankapp.main.BankMain       Internal error occured.. Kindly contact SYSADMIN             10-November-2020 Tuesday CST 17:14:53                
+[INFO]        com.bankapp.main.BankMain       Viewing  a log of All Transactions             10-November-2020 Tuesday CST 17:20:55                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Driver Loaded Successfully             10-November-2020 Tuesday CST 17:20:55                
+[ERROR]        com.bankapp.dao.dbutilities.PostresSqlConnection       Connection Successfull             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=1, accountno=456, transactiontype=Made Deposit, remarks=Test, date=2020-11-08 00:00:00, amt=200]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=2, accountno=42204, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=8000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=3, accountno=34934, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=211]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=4, accountno=53524, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=6000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=5, accountno=19811, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=7000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=6, accountno=456, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=5500]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=7, accountno=19811, transactiontype=Made Deposit, remarks=Test, date=2020-11-09 00:00:00, amt=500]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=8, accountno=213, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=8000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=9, accountno=19811, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=6500]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=10, accountno=34934, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-09 00:00:00, amt=2000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=11, accountno=34934, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-09 00:00:00, amt=211]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=12, accountno=456, transactiontype=Amount Transfered to19811, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=5450]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=13, accountno=19811, transactiontype=Amount Transfered to34934, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=50]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=14, accountno=34934, transactiontype=Amount Transfered to19811, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=600]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=15, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=1000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=16, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=500]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=17, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=500]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=18, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=10000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=19, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=10000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=20, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-10 00:00:00, amt=9600]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=21, accountno=11228, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-10 00:00:00, amt=8000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=22, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-10 00:00:00, amt=9600]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=23, accountno=53524, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-10 00:00:00, amt=100]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=24, accountno=11228, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-10 00:00:00, amt=500]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=25, accountno=19811, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=200]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=26, accountno=11228, transactiontype=Amount Transfered to53524, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=500]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=27, accountno=87686, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-10 00:00:00, amt=1000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=28, accountno=87686, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-10 00:00:00, amt=600]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=29, accountno=53524, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-10 00:00:00, amt=600]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=30, accountno=213, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-10 00:00:00, amt=200]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=31, accountno=213, transactiontype=Amount Transfered to19811, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=1000]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=32, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=3600]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=33, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=3600]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=34, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=200]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=35, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=500]             10-November-2020 Tuesday CST 17:20:55                
+[INFO]        com.bankapp.main.BankMain       LogTable [logid=36, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=300]             10-November-2020 Tuesday CST 17:20:55                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 17:51:36                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 17:51:36                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 17:54:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 17:54:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 17:58:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 17:58:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 18:05:23                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 18:05:23                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 18:05:23                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 18:05:23                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 18:05:32                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 18:05:32                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 18:10:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 18:10:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 18:10:51                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 18:10:51                
+[DEBUG]                com.bankapp.main.BankMain                Invalid number please enter 1 to 3
+
+                   10-November-2020 Tuesday CST 18:20:43                
+[DEBUG]                com.bankapp.main.BankMain                Invalid number please enter 1 to 3
+
+                   10-November-2020 Tuesday CST 18:21:04                
+[DEBUG]                com.bankapp.main.BankMain                Application exits if don't use your choices between 1 to 3
+java.lang.NumberFormatException: For input string: "ewewe"                   10-November-2020 Tuesday CST 18:22:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:28:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:28:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:28:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:28:06                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                Welcome New Customer..Thank you for choosing Zyon Banking Service.                   10-November-2020 Tuesday CST 20:28:06                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                Your New Account Number is 90217 with a starting balance of 7000.0  and Accounttype is checking                   10-November-2020 Tuesday CST 20:28:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:28:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:28:06                
+[INFO]                com.bankapp.main.BankMain                Enter Your Account No to view your balance                   10-November-2020 Tuesday CST 20:31:38                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:31:45                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:31:45                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:31:45                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:31:45                
+[INFO]                com.bankapp.main.BankMain                 Your Current Balance is 17200.0                   10-November-2020 Tuesday CST 20:31:45                
+[INFO]                com.bankapp.main.BankMain                Please enter your Account no to deposit the amount                   10-November-2020 Tuesday CST 20:34:29                
+[INFO]                com.bankapp.main.BankMain                Enter Your Account No                    10-November-2020 Tuesday CST 20:34:29                
+[INFO]                com.bankapp.main.BankMain                Please Enter the Amount to be deposited                   10-November-2020 Tuesday CST 20:34:49                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:34:52                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:34:52                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:34:52                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:34:52                
+[INFO]                com.bankapp.main.BankMain                Your Current Balance after depositing is 17500.0                   10-November-2020 Tuesday CST 20:34:52                
+[INFO]                com.bankapp.main.BankMain                Please enter your Account no to withdraw the amount                   10-November-2020 Tuesday CST 20:35:50                
+[INFO]                com.bankapp.main.BankMain                Enter Your Account No                    10-November-2020 Tuesday CST 20:35:50                
+[INFO]                com.bankapp.main.BankMain                Please Enter the Amount to be withdrawn                   10-November-2020 Tuesday CST 20:36:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:36:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:36:10                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                Invalid Transaction..As minimum balance is 500                   10-November-2020 Tuesday CST 20:36:10                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                Sorry Customer, Cannot make this Transaction                   10-November-2020 Tuesday CST 20:36:10                
+[INFO]                com.bankapp.main.BankMain                Please enter your Account no to withdraw the amount                   10-November-2020 Tuesday CST 20:37:18                
+[INFO]                com.bankapp.main.BankMain                Enter Your Account No                    10-November-2020 Tuesday CST 20:37:18                
+[INFO]                com.bankapp.main.BankMain                Please Enter the Amount to be withdrawn                   10-November-2020 Tuesday CST 20:37:20                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:37:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:37:26                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                Your Current Balance after withdrawal is 17000.0                   10-November-2020 Tuesday CST 20:37:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:37:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:37:26                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                The current Balance of Account No 213 is 17000.0                   10-November-2020 Tuesday CST 20:37:26                
+[INFO]                com.bankapp.main.BankMain                Trasferring Amount from Savings/Checking to Checking/Savings                   10-November-2020 Tuesday CST 20:38:44                
+[INFO]                com.bankapp.main.BankMain                Enter Your Savings Account No                    10-November-2020 Tuesday CST 20:38:44                
+[INFO]                com.bankapp.main.BankMain                Please Enter the Amount to be Transferred                   10-November-2020 Tuesday CST 20:40:38                
+[INFO]                com.bankapp.main.BankMain                Enter Your Checking Account No to transfer the amount  $2600.0                   10-November-2020 Tuesday CST 20:40:44                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:40:52                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:40:52                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                Sorry Customer! Cannot make this transaction.As Minimum balance should be 500$                   10-November-2020 Tuesday CST 20:40:52                
+[INFO]                com.bankapp.main.BankMain                Trasferring Amount from Savings/Checking to Checking/Savings                   10-November-2020 Tuesday CST 20:42:24                
+[INFO]                com.bankapp.main.BankMain                Enter Your Savings Account No                    10-November-2020 Tuesday CST 20:42:24                
+[INFO]                com.bankapp.main.BankMain                Please Enter the Amount to be Transferred                   10-November-2020 Tuesday CST 20:42:51                
+[INFO]                com.bankapp.main.BankMain                Enter Your Checking Account No to transfer the amount  $1000.0                   10-November-2020 Tuesday CST 20:42:55                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:43:02                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:43:02                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                The current Balance of Account No 53524 is 2000.0                   10-November-2020 Tuesday CST 20:43:02                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:43:02                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:43:02                
+[INFO]                com.bankapp.main.BankMain                Transfering Money to Another Account                   10-November-2020 Tuesday CST 20:44:02                
+[INFO]                com.bankapp.main.BankMain                 Please Enter your Account No:                   10-November-2020 Tuesday CST 20:44:02                
+[INFO]                com.bankapp.main.BankMain                Please Enter the Amount to be Transferred                   10-November-2020 Tuesday CST 20:44:12                
+[INFO]                com.bankapp.main.BankMain                Enter Account Number to Transfer the amount $ 1000.0                   10-November-2020 Tuesday CST 20:44:20                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:44:30                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:44:31                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:44:31                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:44:31                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                The current Balance of Account No 90217 is 7000.0                   10-November-2020 Tuesday CST 20:44:31                
+[INFO]                com.bankapp.main.BankMain                Viewing  a log of All Transactions                   10-November-2020 Tuesday CST 20:45:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:45:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=1, accountno=456, transactiontype=Made Deposit, remarks=Test, date=2020-11-08 00:00:00, amt=200]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=2, accountno=42204, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=8000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=3, accountno=34934, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=211]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=4, accountno=53524, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=6000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=5, accountno=19811, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=7000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=6, accountno=456, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=5500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=7, accountno=19811, transactiontype=Made Deposit, remarks=Test, date=2020-11-09 00:00:00, amt=500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=8, accountno=213, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-09 00:00:00, amt=8000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=9, accountno=19811, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=6500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=10, accountno=34934, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-09 00:00:00, amt=2000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=11, accountno=34934, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-09 00:00:00, amt=211]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=12, accountno=456, transactiontype=Amount Transfered to19811, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=5450]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=13, accountno=19811, transactiontype=Amount Transfered to34934, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=50]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=14, accountno=34934, transactiontype=Amount Transfered to19811, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=600]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=15, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=1000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=16, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=17, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-09 00:00:00, amt=500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=18, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=10000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=19, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-09 00:00:00, amt=10000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=20, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-10 00:00:00, amt=9600]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=21, accountno=11228, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-10 00:00:00, amt=8000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=22, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-10 00:00:00, amt=9600]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=23, accountno=53524, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-10 00:00:00, amt=100]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=24, accountno=11228, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-10 00:00:00, amt=500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=25, accountno=19811, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=200]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=26, accountno=11228, transactiontype=Amount Transfered to53524, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=27, accountno=87686, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-10 00:00:00, amt=1000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=28, accountno=87686, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-10 00:00:00, amt=600]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=29, accountno=53524, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-10 00:00:00, amt=600]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=30, accountno=213, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-10 00:00:00, amt=200]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=31, accountno=213, transactiontype=Amount Transfered to19811, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=1000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=32, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=3600]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=33, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=3600]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=34, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=200]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=35, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=36, accountno=53524, transactiontype=Amount Transfered to213, remarks=Amount Transferred, date=2020-11-10 00:00:00, amt=300]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=37, accountno=90217, transactiontype=New Account Opened, remarks=ACCEPTED ACCOUNT , date=2020-11-10 20:28:07, amt=7000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=38, accountno=213, transactiontype=Viewed Balance, remarks=Viewed Account, date=2020-11-10 20:31:46, amt=17200]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=39, accountno=213, transactiontype=Deposited, remarks=Amount Deposited , date=2020-11-10 20:34:52, amt=300]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=40, accountno=213, transactiontype=Withdrawal, remarks=Amount Withdrawn, date=2020-11-10 20:37:27, amt=500]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=41, accountno=53524, transactiontype=Amount Transfered to90217, remarks=Amount Transferred, date=2020-11-10 20:43:03, amt=1000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                LogTable [logid=42, accountno=90217, transactiontype=Amount Transfered to53524, remarks=Amount Transferred, date=2020-11-10 20:44:31, amt=1000]                   10-November-2020 Tuesday CST 20:45:27                
+[INFO]                com.bankapp.main.BankMain                Viewing Customer Account Details based on Account Number                   10-November-2020 Tuesday CST 20:52:21                
+[INFO]                com.bankapp.main.BankMain                Please enter Account No to view Account Details.                   10-November-2020 Tuesday CST 20:52:21                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Driver Loaded Successfully                   10-November-2020 Tuesday CST 20:52:29                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                Connection Successfull                   10-November-2020 Tuesday CST 20:52:29                
+[DEBUG]                com.bankapp.main.BankMain                Account Details of 213  Account Number are 
+Accounts [customerid=11, accountno=213, balance=17000.0, accountype=savings]                   10-November-2020 Tuesday CST 20:52:29                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use your choices between 1 & 2
+java.lang.NumberFormatException: For input string: "jdlksj"                         11-November-2020 Wednesday CST 13:39:37                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:40:55                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:40:55                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: value too long for type character varying(6)                         11-November-2020 Wednesday CST 13:40:55                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Internal error occured.. Kindly contact SYSADMIN                         11-November-2020 Wednesday CST 13:40:55                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:45:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:45:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:45:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:45:34                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 13:45:34                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your New Account Number is 56822 with a starting balance of 1000.0  and Accounttype is ldj                         11-November-2020 Wednesday CST 13:45:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:45:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:45:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:46:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:46:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:46:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:46:25                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 13:46:25                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your New Account Number is 83107 with a starting balance of 8000.0  and Accounttype is jdsk                         11-November-2020 Wednesday CST 13:46:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:46:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:46:25                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use your choices between 1 & 2
+java.lang.NumberFormatException: For input string: "dklj"                         11-November-2020 Wednesday CST 13:55:39                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.java.lang.NumberFormatException: For input string: "jsl"                         11-November-2020 Wednesday CST 13:57:58                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:59:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:59:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:59:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:59:13                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 13:59:13                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your New Account Number is 95543 with a starting balance of 7000.0  and Accounttype is jsl                         11-November-2020 Wednesday CST 13:59:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 13:59:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 13:59:13                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.
+ java.lang.NumberFormatException: For input string: "klsk"                         11-November-2020 Wednesday CST 13:59:59                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 14:37:17                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 14:37:17                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: column "dateofbirth" is of type date but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 188                         11-November-2020 Wednesday CST 14:37:17                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Internal error occured.. Kindly contact SYSADMIN                         11-November-2020 Wednesday CST 14:37:17                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 14:50:58                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 14:50:58                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 14:50:58                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 14:50:58                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 14:50:58                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your New Account Number is 75055 with a starting balance of 4000.0  and Accounttype is savings                         11-November-2020 Wednesday CST 14:50:58                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 14:50:58                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 14:50:58                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 15:08:10                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 80328 with a starting balance of 7000.0  and Accounttype is checking                         11-November-2020 Wednesday CST 15:08:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:08:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:08:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:08:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:08:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:08:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:08:10                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 15:14:10                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 49204 with a starting balance of 3000.0  and Accounttype is checking                         11-November-2020 Wednesday CST 15:14:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:14:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:14:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:14:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:14:10                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(0) already exists.                         11-November-2020 Wednesday CST 15:14:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:14:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:14:10                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 15:20:21                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 12870 with a starting balance of 7000.0  and Accounttype is checking                         11-November-2020 Wednesday CST 15:20:21                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:20:21                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:20:22                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:20:22                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:20:22                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(0) already exists.                         11-November-2020 Wednesday CST 15:20:22                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 15:20:22                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 15:20:22                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 16:05:51                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 90161 with a starting balance of 9000.0  and Accounttype is checking                         11-November-2020 Wednesday CST 16:05:51                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:05:51                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:05:51                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:05:51                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:05:51                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:05:51                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:05:51                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 16:15:07                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 74473 with a starting balance of 3000.0  and Accounttype is Savings                         11-November-2020 Wednesday CST 16:15:07                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:15:07                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:15:07                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:15:07                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:15:08                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:15:08                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:15:08                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No to view your balance                         11-November-2020 Wednesday CST 16:15:54                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:16:04                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:16:04                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Invalid Account Number!!!... No matching records found for the Account Number = 894                         11-November-2020 Wednesday CST 16:16:04                
+[INFO]                com.bankapp.main.BankMain                        Please enter your Account no to deposit the amount                         11-November-2020 Wednesday CST 16:16:39                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No                          11-November-2020 Wednesday CST 16:16:39                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be deposited                         11-November-2020 Wednesday CST 16:16:48                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:16:56                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:16:56                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Invalid Account Number!!!... No matching records found for the Account Number = 780                         11-November-2020 Wednesday CST 16:16:56                
+[INFO]                com.bankapp.main.BankMain                        Please enter your Account no to withdraw the amount                         11-November-2020 Wednesday CST 16:20:59                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No                          11-November-2020 Wednesday CST 16:20:59                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be withdrawn                         11-November-2020 Wednesday CST 16:21:02                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:21:05                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:21:05                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Invalid Account Number!!!... No matching records found for the Account Number = 789                         11-November-2020 Wednesday CST 16:21:05                
+[INFO]                com.bankapp.main.BankMain                        Trasferring Amount from Savings/Checking to Checking/Savings                         11-November-2020 Wednesday CST 16:21:27                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Savings Account No                          11-November-2020 Wednesday CST 16:21:27                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be Transferred                         11-November-2020 Wednesday CST 16:21:32                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Checking Account No to transfer the amount  $234.0                         11-November-2020 Wednesday CST 16:21:35                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 16:21:48                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 16:21:48                
+[DEBUG]                com.bankapp.main.BankMain                        Your choices are 1 to 5                         11-November-2020 Wednesday CST 17:15:04                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No to view your balance                         11-November-2020 Wednesday CST 17:15:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:15:39                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:15:39                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:15:39                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:15:39                
+[INFO]                com.bankapp.main.BankMain                         Your Current Balance is 400.0                         11-November-2020 Wednesday CST 17:15:39                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No to view your balance                         11-November-2020 Wednesday CST 17:17:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:17:38                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:17:38                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Invalid Account Number!!!... No matching records found for the Account Number = 90                         11-November-2020 Wednesday CST 17:17:38                
+[INFO]                com.bankapp.main.BankMain                        Please enter your Account no to deposit the amount                         11-November-2020 Wednesday CST 17:18:09                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No                          11-November-2020 Wednesday CST 17:18:09                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be deposited                         11-November-2020 Wednesday CST 17:18:19                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:18:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:18:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:18:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:18:27                
+[INFO]                com.bankapp.main.BankMain                        Your Current Balance after depositing is 5000.0                         11-November-2020 Wednesday CST 17:18:27                
+[INFO]                com.bankapp.main.BankMain                        Please enter your Account no to withdraw the amount                         11-November-2020 Wednesday CST 17:19:55                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No                          11-November-2020 Wednesday CST 17:19:55                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be withdrawn                         11-November-2020 Wednesday CST 17:20:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:20:19                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:20:19                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your Current Balance after withdrawal is 8000.0                         11-November-2020 Wednesday CST 17:20:19                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:20:19                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:20:19                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 90161 is 8000.0                         11-November-2020 Wednesday CST 17:20:19                
+[INFO]                com.bankapp.main.BankMain                        Please enter your Account no to withdraw the amount                         11-November-2020 Wednesday CST 17:21:22                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No                          11-November-2020 Wednesday CST 17:21:22                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.
+ java.lang.NumberFormatException: For input string: "kj"                         11-November-2020 Wednesday CST 17:21:27                
+[INFO]                com.bankapp.main.BankMain                        Please enter your Account no to withdraw the amount                         11-November-2020 Wednesday CST 17:21:53                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Account No                          11-November-2020 Wednesday CST 17:21:53                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be withdrawn                         11-November-2020 Wednesday CST 17:21:57                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:22:00                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:22:00                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Invalid Account Number!!!... No matching records found for the Account Number = 87                         11-November-2020 Wednesday CST 17:22:00                
+[INFO]                com.bankapp.main.BankMain                        Trasferring Amount from Savings/Checking to Checking/Savings                         11-November-2020 Wednesday CST 17:22:26                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Savings Account No                          11-November-2020 Wednesday CST 17:22:26                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.
+ java.lang.NumberFormatException: For input string: "hjk"                         11-November-2020 Wednesday CST 17:22:32                
+[INFO]                com.bankapp.main.BankMain                        Trasferring Amount from Savings/Checking to Checking/Savings                         11-November-2020 Wednesday CST 17:22:51                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Savings Account No                          11-November-2020 Wednesday CST 17:22:51                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be Transferred                         11-November-2020 Wednesday CST 17:23:08                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Checking Account No to transfer the amount  $1000.0                         11-November-2020 Wednesday CST 17:23:10                
+[INFO]                com.bankapp.main.BankMain                        Trasferring Amount from Savings/Checking to Checking/Savings                         11-November-2020 Wednesday CST 17:34:21                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Savings Account No                          11-November-2020 Wednesday CST 17:34:21                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.
+ java.lang.NumberFormatException: For input string: "kjk"                         11-November-2020 Wednesday CST 17:34:25                
+[INFO]                com.bankapp.main.BankMain                        Trasferring Amount from Savings/Checking to Checking/Savings                         11-November-2020 Wednesday CST 17:34:41                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Savings Account No                          11-November-2020 Wednesday CST 17:34:41                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be Transferred                         11-November-2020 Wednesday CST 17:34:58                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Checking Account No to transfer the amount  $1000.0                         11-November-2020 Wednesday CST 17:35:04                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:35:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:35:14                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 90217 is 6000.0                         11-November-2020 Wednesday CST 17:35:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:35:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:35:14                
+[INFO]                com.bankapp.main.BankMain                        Trasferring Amount from Savings/Checking to Checking/Savings                         11-November-2020 Wednesday CST 17:39:45                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Savings Account No                          11-November-2020 Wednesday CST 17:39:45                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be Transferred                         11-November-2020 Wednesday CST 17:39:56                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Checking Account No to transfer the amount  $1000.0                         11-November-2020 Wednesday CST 17:39:59                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:40:29                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:40:29                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 75055 is 4000.0                         11-November-2020 Wednesday CST 17:40:29                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:40:29                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:40:29                
+[INFO]                com.bankapp.main.BankMain                        Trasferring Amount from Savings/Checking to Checking/Savings                         11-November-2020 Wednesday CST 17:46:50                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Savings Account No                          11-November-2020 Wednesday CST 17:46:50                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be Transferred                         11-November-2020 Wednesday CST 17:47:01                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Checking Account No to transfer the amount  $1000.0                         11-November-2020 Wednesday CST 17:47:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 17:47:11                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 17:47:12                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 34934 is 4000.0                         11-November-2020 Wednesday CST 17:47:12                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Invalid Account Number!!!... No matching records found for the Account Number =                          11-November-2020 Wednesday CST 17:47:12                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 18:58:49                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 87635 with a starting balance of 600.0  and Accounttype is Savings                         11-November-2020 Wednesday CST 18:58:49                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 18:58:49                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 18:58:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 18:58:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 18:58:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 18:58:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 18:58:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(0) already exists.                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:02:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:26                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(0) already exists.                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:11:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(0) already exists.                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:41                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:14:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:14:42                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:24:00                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:24:01                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(56822) already exists.                         11-November-2020 Wednesday CST 19:24:01                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:27:36                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:27:36                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:27:36                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:27:36                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:30:32                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:30:32                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:30:32                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:30:32                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:33:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:33:06                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your Current Balance after withdrawal is 19500.0                         11-November-2020 Wednesday CST 19:33:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 19:33:06                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 19:33:07                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 213 is 19500.0                         11-November-2020 Wednesday CST 19:33:07                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 20:15:56                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 87107 with a starting balance of 9000.0  and Accounttype is saving                         11-November-2020 Wednesday CST 20:15:56                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:15:56                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:15:57                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.                         11-November-2020 Wednesday CST 20:15:57                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Internal error occured.. Kindly contact SYSADMIN                         11-November-2020 Wednesday CST 20:15:57                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 20:17:37                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 58905 with a starting balance of 8000.0  and Accounttype is savings                         11-November-2020 Wednesday CST 20:17:37                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:17:37                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:17:37                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.
+ java.lang.NumberFormatException: For input string: "erew"                         11-November-2020 Wednesday CST 20:20:23                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 20:22:13                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 83831 with a starting balance of 9000.0  and Accounttype is savings                         11-November-2020 Wednesday CST 20:22:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:22:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:22:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:22:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:22:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:22:13                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:22:13                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 20:30:11                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 92572 with a starting balance of 9000.0  and Accounttype is savings                         11-November-2020 Wednesday CST 20:30:11                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:30:11                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:30:12                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:30:12                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:30:12                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:30:12                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:30:12                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 20:32:30                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 89649 with a starting balance of 9000.0  and Accounttype is checking                         11-November-2020 Wednesday CST 20:32:30                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:32:30                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:32:30                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:32:30                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:32:30                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:32:30                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:32:30                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 20:35:01                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 45593 with a starting balance of 8000.0  and Accounttype is checking                         11-November-2020 Wednesday CST 20:35:01                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:35:01                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:35:01                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:36:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:36:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:36:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:36:28                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 20:43:28                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 32534 with a starting balance of 8999.0  and Accounttype is checking                         11-November-2020 Wednesday CST 20:43:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 20:43:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 20:43:28                
+[DEBUG]                com.bankapp.main.BankMain                        business exception  com.bankapp.exception.BusinessException: Already Existing customer.                         11-November-2020 Wednesday CST 20:43:28                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.
+ java.lang.NumberFormatException: For input string: "7834789873"                         11-November-2020 Wednesday CST 22:29:48                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.
+ java.lang.NumberFormatException: For input string: "8769800987"                         11-November-2020 Wednesday CST 22:31:24                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 22:42:50                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 28838 with a starting balance of 2000.0  and Accounttype is Savings                         11-November-2020 Wednesday CST 22:42:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 22:42:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 22:42:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 22:42:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 22:42:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 22:42:50                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 22:42:50                
+[DEBUG]                com.bankapp.main.BankMain                        Application exits if don't use valid number.
+ java.lang.NumberFormatException: For input string: "2147483648"                         11-November-2020 Wednesday CST 22:51:33                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 22:54:10                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 43231 with a starting balance of 1500.0  and Accounttype is checking                         11-November-2020 Wednesday CST 22:54:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 22:54:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 22:54:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 22:54:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 22:54:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 22:54:10                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 22:54:10                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 23:30:17                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 68496 with a starting balance of 9000.0  and Accounttype is checking                         11-November-2020 Wednesday CST 23:30:17                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:30:17                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:30:17                
+[INFO]                com.bankapp.main.BankMain                        Trasferring Amount from Savings/Checking to Checking/Savings                         11-November-2020 Wednesday CST 23:47:46                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Savings Account No                          11-November-2020 Wednesday CST 23:47:46                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be Transferred                         11-November-2020 Wednesday CST 23:47:59                
+[INFO]                com.bankapp.main.BankMain                        Enter Your Checking Account No to transfer the amount  $1000.0                         11-November-2020 Wednesday CST 23:48:04                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:48:18                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:48:19                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 83107 is 7000.0                         11-November-2020 Wednesday CST 23:48:19                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:48:19                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:48:19                
+[INFO]                com.bankapp.main.BankMain                        Transfering Money to Another Account                         11-November-2020 Wednesday CST 23:49:13                
+[INFO]                com.bankapp.main.BankMain                         Please Enter your Account No:                         11-November-2020 Wednesday CST 23:49:13                
+[INFO]                com.bankapp.main.BankMain                        Please Enter the Amount to be Transferred                         11-November-2020 Wednesday CST 23:50:13                
+[INFO]                com.bankapp.main.BankMain                        Enter Account Number to Transfer the amount $ 2000.0                         11-November-2020 Wednesday CST 23:50:21                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:50:31                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:50:31                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:50:31                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:50:31                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 19811 is 5000.0                         11-November-2020 Wednesday CST 23:50:31                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 23:57:14                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 40544 with a starting balance of 600.0  and Accounttype is Savings                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your Current Balance after withdrawal is 19000.0                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 213 is 19000.0                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 213 is 19000.0                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:57:14                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:57:14                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         11-November-2020 Wednesday CST 23:58:03                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 91003 with a starting balance of 600.0  and Accounttype is Savings                         11-November-2020 Wednesday CST 23:58:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         11-November-2020 Wednesday CST 23:58:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         11-November-2020 Wednesday CST 23:58:03                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Welcome New Customer..Thank you for choosing Zyon Banking Service.                         12-November-2020 Thursday CST 00:00:34                
+[INFO]                com.bankapp.service.impl.BankServiceImpl                        Your New Account Number is 58477 with a starting balance of 600.0  and Accounttype is Savings                         12-November-2020 Thursday CST 00:00:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:00:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:00:34                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:15                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your Current Balance after withdrawal is 18500.0                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:15                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 213 is 18500.0                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:15                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 213 is 18500.0                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:15                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:27                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:28                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(56822) already exists.                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:28                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:29                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:03:29                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:03:29                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(56822) already exists.                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:03                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:16                
+[DEBUG]                com.bankapp.dao.impl.BankDAOImpl                        org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "accounts_pkey"
+  Detail: Key (accountno)=(56822) already exists.                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:16                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:17                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:17                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:17                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:25                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        Your Current Balance after withdrawal is 19500.0                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:25                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 213 is 19500.0                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:25                
+[INFO]                com.bankapp.dao.impl.BankDAOImpl                        The current Balance of Account No 213 is 19500.0                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:25                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Driver Loaded Successfully                         12-November-2020 Thursday CST 00:05:26                
+[ERROR]                com.bankapp.dao.dbutilities.PostresSqlConnection                        Connection Successfull                         12-November-2020 Thursday CST 00:05:26                
