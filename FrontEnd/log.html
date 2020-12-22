@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Reimbursement System</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+</head>
+<body>
+    <div class="container" id="fullcontainer">
+        <div class="row" id="login-row">
+          <h3 class="col-lg-12">Please enter your username and password:</h3>
+          <input class="col-sm-3 form-control" id="username" type="text" placeholder="Enter USERNAME">
+          <input class="col-sm-3 form-control" id="password" type="password" placeholder="Enter PASSWORD">
+          <button id="logbtn" class="btn btn-danger">Login</button>
+      </div>
+  
+  
+  
+        <div class="row" id="table-row">
+          <table class="table table-hover table-bordered" id="rtable">
+            <thead>
+              <tr>
+                <th>R_Id</th>
+                <th>R_amount</th>
+                <th>D_submitted</th>
+                <th>D_resolved</th>
+                <th>R_description</th>
+                <th>R_author</th>
+                <th>R_resolver</th>
+                <th>R_status_id</th>
+                <th>R_type_id</th>
+              </tr>
+            </thead>
+            <tbody id="rbody"></tbody>
+          </table>
+        </div>
+        <br />
+        <br />
+        <button id="viewAllReimbsButton" class="btn btn-success">
+          ViewAllReimbs
+        </button>
+        <br>
+        <br>
+        <label for="ReimbursementStatus">Choose the Reimbursement Status:</label>
+        <select id="reimbursementStatus" name="ReimbursementStatus">
+          <option value="1">1-Pending</option>
+          <option value="2">2-Approved</option>
+          <option value="3">3-Denied</option>
+           </select>
+
+        <br>
+        <br>
+        <button id="StatusButton" class="btn btn-success">
+         ReimbursementsOnStatus
+        </button>
+        <br>
+      
+        <br>
+        <button id="PastTicketsButton" class="btn btn-success">
+          EmployeePastTickets
+        </button>
+        <br>
+        <br>
+        <br>
+         
+        <label for="ReimbursementType">Choose the type of Reimbursement:</label>
+        <select id="reimbursementType" name="ReimbursementType">
+          <option value="1">1-Lodging</option>
+          <option value="2">2-Travel</option>
+          <option value="3">3-food</option>
+          <option value="4">4-Certifications</option>
+          <option value="5">5-Other</option>
+        </select>
+
+        
+        <label for="ReimbursementAmount">Enter Reimbursement Amount:</label>
+        <input class="col-sm-3 form-control" id="ReimbursementAmount" type="text" placeholder="Enter Reimbursement Amount">
+        <br>
+        <label for="ReimbursementDescription">Description of Reimbursement </label>
+        <input class="col-sm-3 form-control" id="ReimbursementDescription" type="text" placeholder="Enter Reimbursement Description">
+        <br>
+      
+        
+        <div id='TicketForm'>
+          
+        </div>
+        <button id="NewReqButton" class="btn btn-success">
+          AddNewReimbursementRequest.
+        </button>
+
+
+      </div>
+      <script src="log.js"></script>
+    
+</body>
+</html>
+
+
+
+
