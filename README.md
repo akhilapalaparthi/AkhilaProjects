@@ -43,30 +43,22 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Git
 
 
-## Technical Requirements
-Technologies Used
-Backend
-Java - version 1.8.0_271
-PostgreSQL - version 42.2.5
-Maven - version 2.22.1
-JUnit - version 5.4.2
-Log4j - version 1.2.17
-Tomcat - version 9.0
-Javax - version 4.0.1
-Jackson - version 2.12.0
-Frontend
-Bootstrap - version 4.1.1
-HTML
-CSS
-JavaScript
-DevOps / Cloud
-Docker
-Jenkins
-AWS RDS
-AWS EC2
-AWS S3
-Version Control
-Git
+## Getting Started
+
+1. Copy the repository https url by pressing the green clone button, or copy the url and add .git to the end.
+
+2. Clone the repository by opening Git Bash at the desired location and running the clone command:
+            * git clone (name-of-url).git
+
+3. Clone the repository by opening Git Bash at the desired location and running the clone command:
+
+4. Configure PostgreSQL settings
+
+5. Run the application on a Tomcat 9 server.
+
+6. Open ERS.html on your browser.
+
+
 The back-end system shall use JDBC to connect to a Postgres database. The application shall deploy onto a Tomcat Server. The middle tier shall use Servlet technology for dynamic Web application development. The front-end view shall use HTML/CSS/JavaScript to make an application that can call server-side components in a generally RESTful manner. Passwords shall be encrypted in Java and securely stored in the database. The middle tier shall follow proper layered architecture, have reasonable (~70%) test coverage of the service layer, and implement log4j for appropriate logging. Webpages shall be styled to be functional and readable. 
 
 **Stretch Goals:**
