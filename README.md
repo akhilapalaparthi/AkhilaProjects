@@ -15,6 +15,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Approve or deny requests
 * Filter requests by status
 # Technologies Used
+
 **Backend**
 Java - version 1.8.0_271
 PostgreSQL - version 42.2.5
