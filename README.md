@@ -8,6 +8,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Login
 * View reimbursement tickets
 * Request reimbursement ticket
+
 **Finance Manager**
 * Login
 * View pending requests
