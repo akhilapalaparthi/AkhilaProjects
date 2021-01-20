@@ -48,7 +48,8 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 1. Copy the repository https url by pressing the green clone button, or copy the url and add .git to the end.
 
 2. Clone the repository by opening Git Bash at the desired location and running the clone command:
-            * git clone (name-of-url).git
+           
+           * git clone (name-of-url).git
 
 3. Clone the repository by opening Git Bash at the desired location and running the clone command:
 
@@ -57,6 +58,12 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 5. Run the application on a Tomcat 9 server.
 
 6. Open ERS.html on your browser.
+
+## Usage
+
+
+You can login and will be redirected to either Employee or Finance Manager dashboard depending on your user role. If logged in as an Employee, you can either view your past tickets or create a new reimbursement ticket request. As a Finance Manager, you can view all ticket requests, filter them by status, and approve or deny any pending requests.
+
 
 
 The back-end system shall use JDBC to connect to a Postgres database. The application shall deploy onto a Tomcat Server. The middle tier shall use Servlet technology for dynamic Web application development. The front-end view shall use HTML/CSS/JavaScript to make an application that can call server-side components in a generally RESTful manner. Passwords shall be encrypted in Java and securely stored in the database. The middle tier shall follow proper layered architecture, have reasonable (~70%) test coverage of the service layer, and implement log4j for appropriate logging. Webpages shall be styled to be functional and readable. 
