@@ -24,17 +24,20 @@ Log4j - version 1.2.17
 Tomcat - version 9.0
 Javax - version 4.0.1
 Jackson - version 2.12.0
+
 **Frontend**
 * Bootstrap - version 4.1.1
 * HTML
 * CSS
 * JavaScript
+
 **DevOps / Cloud**
 * Docker
 * Jenkins
 * AWS RDS
 * AWS EC2
 * AWS S3
+
 **Version Control**
 * Git
 
