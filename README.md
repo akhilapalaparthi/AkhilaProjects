@@ -17,14 +17,14 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 # Technologies Used
 
 **Backend**
-Java - version 1.8.0_271
-PostgreSQL - version 42.2.5
-Maven - version 2.22.1
-JUnit - version 5.4.2
-Log4j - version 1.2.17
-Tomcat - version 9.0
-Javax - version 4.0.1
-Jackson - version 2.12.0
+* Java - version 1.8.0_271
+* PostgreSQL - version 42.2.5
+* Maven - version 2.22.1
+* JUnit - version 5.4.2
+* Log4j - version 1.2.17
+* Tomcat - version 9.0
+* Javax - version 4.0.1
+* Jackson - version 2.12.0
 
 **Frontend**
 * Bootstrap - version 4.1.1
