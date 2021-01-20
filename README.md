@@ -57,7 +57,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 5. Run the application on a Tomcat 9 server.
 
-6. Open ERS.html on your browser.
+6. Open log.html on your browser.
 
 ## Usage
 
@@ -66,11 +66,3 @@ You can login and will be redirected to either Employee or Finance Manager dashb
 
 
 
-The back-end system shall use JDBC to connect to a Postgres database. The application shall deploy onto a Tomcat Server. The middle tier shall use Servlet technology for dynamic Web application development. The front-end view shall use HTML/CSS/JavaScript to make an application that can call server-side components in a generally RESTful manner. Passwords shall be encrypted in Java and securely stored in the database. The middle tier shall follow proper layered architecture, have reasonable (~70%) test coverage of the service layer, and implement log4j for appropriate logging. Webpages shall be styled to be functional and readable. 
-
-**Stretch Goals:**
-* Replace JDBC with Hibernate to manage the database connection.
-* Users can upload a document or image of their receipt when submitting reimbursements which can stored in the database and reviewed by a financial manager.
-* Postgres Database shall be hosted remotely on an AWS RDS. 
-* Java application shall be hosted remotely on an EC2.
-* Static files (webpages) shall be hosted on an S3 bucket. 
