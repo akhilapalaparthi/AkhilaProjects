@@ -25,6 +25,10 @@ public class MemberController {
 	@Autowired
 	private MemberService memberService;
 
+	public MemberController(MemberService memberService) {
+		this.memberService = memberService;
+	}
+
 	@GetMapping("")
 	public List<Member> getAllMembers() {
 		return memberService.findAllMembers();
@@ -42,10 +46,7 @@ public class MemberController {
 		} catch (Exception e) {
 
 			return new ResponseEntity<Member>(HttpStatus.NOT_FOUND);
-			// return new ResponseEntity<Member>(HttpStatus.NOT_FOUND);
 		}
-
-		// return memberService.findMemberbyId(id);
 	}
 
 	@PostMapping("")
@@ -54,9 +55,11 @@ public class MemberController {
 			if (member.getMemberId() != 0 && member.getMemberName() != null) {
 
 				return new ResponseEntity<Member>(memberService.createMember(member), HttpStatus.CREATED);
+
 			} else
 				return new ResponseEntity<Member>(HttpStatus.BAD_REQUEST);
 		} catch (Exception e) {
+
 			return new ResponseEntity<Member>(HttpStatus.BAD_REQUEST);
 		}
 	}
@@ -68,7 +71,6 @@ public class MemberController {
 
 			member.setMemberId(id);
 			Member mat = memberService.updateMember(member);
-
 			return new ResponseEntity<Member>(mat, HttpStatus.OK);
 
 		} else {

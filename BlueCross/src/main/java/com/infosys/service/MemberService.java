@@ -15,6 +15,12 @@ public class MemberService {
 	@Autowired
 	private IMember repoMember;
 
+	public MemberService(IMember imember) {
+		super();
+		this.repoMember = imember;
+
+	}
+
 	public List<Member> findAllMembers() {
 		return repoMember.findAll();
 
@@ -42,6 +48,7 @@ public class MemberService {
 			member1.get().setMemberName(member.getMemberName());
 			return repoMember.save(member1.get());
 		} else {
+			
 			return null;
 		}
 
